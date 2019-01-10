@@ -10,4 +10,4 @@ Built using a gulp boilerplate that:
 - Watch for file changes, and automatically recompile build and reload webpages.
 
 Preview Link:
-[https://victorwltsang.github.io/citiesNavigationMenu/]
+https://victorwltsang.github.io/citiesNavigationMenu/
